@@ -39,4 +39,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: my-imgui-js
-        path: imgui/examples/example_sdl_opengl2/example-linux/
+        path: build/
