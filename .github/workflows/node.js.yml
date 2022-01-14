@@ -35,5 +35,4 @@ jobs:
       run: |
         npm install
         make
-        make start-example-html
         ls -alh
